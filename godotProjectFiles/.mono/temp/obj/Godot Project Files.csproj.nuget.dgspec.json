@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/Godot Project Files.csproj": {}
+  },
+  "projects": {
+    "/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/Godot Project Files.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/Godot Project Files.csproj",
+        "projectName": "Godot Project Files",
+        "projectPath": "/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/Godot Project Files.csproj",
+        "packagesPath": "/home/collinsey/.nuget/packages/",
+        "outputPath": "/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/collinsey/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "runtimeIdentifierGraphPath": "/usr/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

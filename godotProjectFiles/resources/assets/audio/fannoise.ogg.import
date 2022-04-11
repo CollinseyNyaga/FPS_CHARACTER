@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/fannoise.ogg-cd673abfdbc06d9dcaac2e30a2e954bf.oggstr"
+
+[deps]
+
+source_file="res://resources/assets/audio/fannoise.ogg"
+dest_files=[ "res://.import/fannoise.ogg-cd673abfdbc06d9dcaac2e30a2e954bf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

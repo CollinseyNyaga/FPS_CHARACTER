@@ -1,0 +1,8 @@
+/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/.mono/temp/bin/Debug/Godot Project Files.dll
+/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/.mono/temp/bin/Debug/Godot Project Files.pdb
+/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/.mono/temp/obj/Debug/Godot Project Files.csprojAssemblyReference.cache
+/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/.mono/temp/obj/Debug/Godot Project Files.AssemblyInfoInputs.cache
+/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/.mono/temp/obj/Debug/Godot Project Files.AssemblyInfo.cs
+/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/.mono/temp/obj/Debug/Godot Project Files.csproj.CoreCompileInputs.cache
+/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/.mono/temp/obj/Debug/Godot Project Files.dll
+/home/collinsey/Documents/gitworkingDir/FPS_CHARACTER/godotProjectFiles/.mono/temp/obj/Debug/Godot Project Files.pdb
